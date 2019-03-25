@@ -1,4 +1,3 @@
 # hello-world
-repository?
-Gigi here, completely green but got here somehow
-I like tacos both of the Moon and Earth 
+Gigi here, completely green but got here somehow.
+My favorite tacos are from this little meteor off of Jupiter. 
